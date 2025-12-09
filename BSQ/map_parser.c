@@ -4,8 +4,8 @@
 /*   map_parser.c                                       :+:      :+:    :+:   */
 /*   By: carloma2 & ahuanga <marvin@42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/09 18:04:48 by carloma2 & ahuanga      #+#    #+#       */
-/*   Updated: 2025/04/09 18:39:08 by carloma2 & ahuanga      ###   ########.fr*/
+/*   Created: 2025/04/09 18:04:48 by carloma2 & ahuanga  #+#    #+#           */
+/*   Updated: 2025/04/09 18:39:08 by carloma2 & ahuanga ###   ########.fr.    */
 /*                                                                            */
 /* ************************************************************************** */
 

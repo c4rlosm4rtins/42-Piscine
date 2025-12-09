@@ -4,8 +4,8 @@
 /*   utils1.c                                           :+:      :+:    :+:   */
 /*   By: carloma2 & ahuanga <marvin@42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/09 18:03:09 by carloma2 & ahuanga      #+#    #+#       */
-/*   Updated: 2025/04/09 18:43:07 by carloma2 & ahuanga      ###   ########.fr*/
+/*   Created: 2025/04/09 18:03:09 by carloma2 & ahuanga #+#    #+#            */
+/*   Updated: 2025/04/09 18:43:07 by carloma2 & ahuanga ###   ########.fr.    */
 /*                                                                            */
 /* ************************************************************************** */
 

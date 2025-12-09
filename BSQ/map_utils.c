@@ -4,8 +4,8 @@
 /*   map_utils.c                                        :+:      :+:    :+:   */
 /*   By: carloma2 & ahuanga <marvin@42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/09 18:16:04 by carloma2 & ahuanga      #+#    #+#       */
-/*   Updated: 2025/04/09 18:39:27 by carloma2 & ahuanga      ###   ########.fr*/
+/*   Created: 2025/04/09 18:16:04 by carloma2 & ahuanga #+#    #+#            */
+/*   Updated: 2025/04/09 18:39:27 by carloma2 & ahuanga###   ########.fr.     */
 /*                                                                            */
 /* ************************************************************************** */
 

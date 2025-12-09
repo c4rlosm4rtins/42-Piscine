@@ -4,8 +4,8 @@
 /*   file.c                                             :+:      :+:    :+:   */
 /*   By: carloma2 & ahuanga <marvin@42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/09 18:00:03 by carloma2 & ahuanga      #+#    #+#       */
-/*   Updated: 2025/04/09 18:38:30 by carloma2 & ahuanga      ###   ########.fr*/
+/*   Created: 2025/04/09 18:00:03 by carloma2 & ahuanga #+#    #+#            */
+/*   Updated: 2025/04/09 18:38:30 by carloma2 & ahuanga ###   ########.fr.    */
 /*                                                                            */
 /* ************************************************************************** */
 

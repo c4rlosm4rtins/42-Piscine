@@ -4,8 +4,8 @@
 /*   solve_map.c                                        :+:      :+:    :+:   */
 /*   By: carloma2 & ahuanga <marvin@42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/09 18:02:06 by carloma2 & ahuanga      #+#    #+#             */
-/*   Updated: 2025/04/09 18:50:48 by carloma2 & ahuanga      ###   ########.fr       */
+/*   Created: 2025/04/09 18:02:06 by carloma2 & ahuanga#+#    #+#             */
+/*   Updated: 2025/04/09 18:50:48 by carloma2 & ahuanga###   ########.fr.     */
 /*                                                                            */
 /* ************************************************************************** */
 
